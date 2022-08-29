@@ -1,14 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="e79b6af9-6ddf-4f32-b99b-3477658296ec" name="Changes" comment="" />
+    <list default="true" id="e79b6af9-6ddf-4f32-b99b-3477658296ec" name="Changes" comment="InitialCommit">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/CarBus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/CarObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/CarSedan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AutoFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/AutoFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/BusProductionLine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/BusProductionLine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ProductionLine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/ProductionLine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/SedanProductionLine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/SedanProductionLine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/beans.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2E1FZZCi6gia6Cx4yepFMuSAnNA" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -19,12 +46,19 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="org.example" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+      <changelist id="e79b6af9-6ddf-4f32-b99b-3477658296ec" name="Changes" comment="" />
       <created>1661755241722</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -42,5 +76,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="InitialCommit" />
+    <option name="LAST_COMMIT_MESSAGE" value="InitialCommit" />
   </component>
 </project>
